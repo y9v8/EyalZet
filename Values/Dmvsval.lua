@@ -1,5 +1,5 @@
 {
-  "Knives": {
+  "Knifes": {
     "1x1x1x1Blade": 1200,
     "AbyssalSword": 1200,
     "AetherisBattleaxe": 1200,
